@@ -12,6 +12,9 @@ page_sections:
   cta:
     button_text: Contact
     url: "#"
+- template: simple-footer
+  block: footer-1
+  content: Powered by...
 menu:
   main:
     weight: 2
