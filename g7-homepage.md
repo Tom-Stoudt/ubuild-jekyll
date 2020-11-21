@@ -14,6 +14,5 @@ page_sections:
   cta:
     button_text: Contact
     url: "#"
-published: false
 
 ---
