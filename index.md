@@ -9,6 +9,8 @@ page_sections:
   navigation:
   - link: "/G7"
     link_text: G7 Homepage
+  - link: "/404"
+    link_text: Other
   - link: "#swap"
     link_text: Swap
   - link: "#customize"
