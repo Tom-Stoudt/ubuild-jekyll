@@ -12,5 +12,9 @@ page_sections:
   cta:
     button_text: Contact
     url: "#"
+menu:
+  main:
+    weight: 2
+    title: G7
 
 ---
