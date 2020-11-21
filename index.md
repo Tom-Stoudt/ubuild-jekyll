@@ -7,7 +7,7 @@ page_sections:
   block: header-2
   logo: "/uploads/2018/06/21/forestry-full.svg"
   navigation:
-  - link: "/G7"
+  - link: G7
     link_text: G7 Homepage
   - link: "/404"
     link_text: Other
